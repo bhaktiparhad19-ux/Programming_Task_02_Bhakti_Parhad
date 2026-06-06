@@ -1,0 +1,71 @@
+PROGRAM EXPLANATIONS - TASK 02
+
+1. Even or Odd Checker
+
+This program takes a number as input from the user and checks whether the number is even or odd using the modulus (%) operator. If the remainder after dividing by 2 is 0, the number is even; otherwise, it is odd.
+
+Concepts Used:
+
+* User Input
+* Variables
+* if-else Statements
+* Modulus Operator (%)
+
+
+
+2. Largest of Three Numbers
+
+This program accepts three numbers from the user and compares them to find the largest number. Conditional statements are used to determine which value is greater.
+
+Concepts Used:
+
+* User Input
+* Variables
+* Comparison Operators
+* Conditional Statements
+
+
+
+3. Grade Calculator
+
+This program accepts marks from the user and displays the corresponding grade based on predefined grading criteria. The program uses an if-elif-else ladder to evaluate the marks.
+
+Concepts Used:
+
+* User Input
+* if-elif-else Statements
+* Comparison Operators
+* Decision Making
+
+
+
+4. Login Validation
+
+This program stores a predefined username and password. It then takes credentials from the user and checks whether they match the stored values. If both match, login is successful; otherwise, an error message is displayed.
+
+Concepts Used:
+
+* Variables
+* User Input
+* String Comparison
+* Logical Operators (AND)
+
+
+
+5. Password Strength Checker
+
+This program evaluates the strength of a password based on three conditions: minimum length of 8 characters, presence of at least one uppercase letter, and presence of at least one numeric digit. Based on these checks, the password is classified as Weak, Moderate, or Strong.
+
+Concepts Used:
+
+* String Handling
+* Loops
+* Conditional Statements
+* Logical Thinking
+* Basic Cyber Security Concepts
+
+
+
+Learning Outcome
+
+Through this task, I learned how to use conditional statements, comparison operators, logical operators, user input handling, and basic problem-solving techniques in both Python and C Programming. I also gained experience in implementing simple validation and decision-making programs.
